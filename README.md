@@ -1,0 +1,2 @@
+# CustomSingleton
+Custom Singleton Example
